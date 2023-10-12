@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="detail_card_margin_top">-220dp</dimen>
+    <dimen name="detail_card_width">500dp</dimen>
+    <dimen name="detail_thumb_width">120dp</dimen>
+    <dimen name="detail_thumb_height">140dp</dimen>
+</resources>

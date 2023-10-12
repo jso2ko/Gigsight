@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Gigsight</string>
+    <string name="error_message">An error has occurred. Please try again.</string>
+    <string name="favorite_saved_message">Favorite saved</string>
+    <string name="favorite_removed_message">Favorite removed</string>
+    <string name="empty_favorites_title">No Favorites Yet!</string>
+    <string name="empty_favorites_subtitle">To add items to your Favorites, tap the heart button
+        after selecting a concert.</string>
+
+    <string name="location_not_found_message">Location Not Found</string>
+    <string name="dialog_title">Location Permission Needed</string>
+    <string name="dialog_message">This app requires the Location permission.
+        Please accept to continue.</string>
+    <string name="positive_button_label">OK</string>
+
+    <string name="favorites_label">My Favorites</string>
+    <string name="tickets_label">Buy Tickets</string>
+    <string name="map_label">View Map</string>
+    <string name="tools_title">Jewel</string>
+    <string name="tools_venue">Lincoln Theatre</string>
+    <string name="tools_full_date">Dec 6, 2018</string>
+    <string name="tools_widget_date">Thursday, Dec 6 @ 6:30 PM</string>
+    <string name="tools_address">1215 U Street Northwest</string>
+    <string name="tools_extended_address">Washington, DC 20009</string>
+
+    <string name="thumbnail_image">Thumbnail Image</string>
+    <string name="poster_image">Poster Image</string>
+    <string name="time_icon">Time Icon</string>
+    <string name="location_icon">Location Icon</string>
+    <string name="tickets_button">Buy Tickets</string>
+    <string name="map_button">View Map</string>
+    <string name="favorite_unmarked_button">Favorite Off</string>
+    <string name="favorite_marked_button">Favorite On</string>
+    <string name="progress_bar">Progress Bar</string>
+    <string name="empty_favorites_image">Empty Favorites Image</string>
+    <string name="poster_transition">Poster Transition</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>

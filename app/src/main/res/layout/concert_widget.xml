@@ -1,0 +1,33 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/infoBackgroundColor"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/widgetTitleTextView"
+        style="@style/WidgetTextStyle"
+        android:background="@color/colorPrimary"
+        android:padding="@dimen/default_padding"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        tools:text="@string/tools_title" />
+
+    <TextView
+        android:id="@+id/widgetDateTimeTextView"
+        style="@style/WidgetTextStyle"
+        android:paddingEnd="@dimen/default_padding"
+        android:paddingStart="@dimen/default_padding"
+        android:paddingTop="@dimen/default_padding"
+        android:textColor="@android:color/black"
+        tools:text="@string/tools_widget_date" />
+
+    <TextView
+        android:id="@+id/widgetVenueTextView"
+        style="@style/WidgetTextStyle"
+        android:paddingTop="@dimen/default_padding"
+        android:textColor="@android:color/black"
+        tools:text="@string/tools_venue" />
+
+</LinearLayout>

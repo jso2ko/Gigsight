@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="appbar_elevation">4dp</dimen>
+    <dimen name="appbar_height">300dp</dimen>
+    <dimen name="toolbar_margin_top">24dp</dimen>
+    <dimen name="empty_margin_top">32dp</dimen>
+    <dimen name="title_text_size">18sp</dimen>
+    <dimen name="default_text_size">16sp</dimen>
+    <dimen name="default_padding">16dp</dimen>
+    <dimen name="item_padding">8dp</dimen>
+    <dimen name="button_margin">4dp</dimen>
+    <dimen name="zero_width">0dp</dimen>
+    <dimen name="progress_bar_size">50dp</dimen>
+
+    <dimen name="card_corner_radius">4dp</dimen>
+    <dimen name="card_margin">4dp</dimen>
+    <dimen name="calendar_stroke">1dp</dimen>
+    <dimen name="calendar_width">50dp</dimen>
+    <dimen name="thumbnail_width">70dp</dimen>
+    <dimen name="thumbnail_height">100dp</dimen>
+    <dimen name="extra_padding">24dp</dimen>
+
+    <dimen name="fab_size">50dp</dimen>
+    <dimen name="empty_favorites_size">80dp</dimen>
+    <dimen name="widget_margin">8dp</dimen>
+    <dimen name="widget_min_width">240dp</dimen>
+    <dimen name="widget_min_height">160dp</dimen>
+
+</resources>
